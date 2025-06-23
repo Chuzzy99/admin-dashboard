@@ -1,14 +1,22 @@
-# Admin Dashboard
+ Admin Dashboard (Bootstrap 5)
 
-A modern, responsive Admin Dashboard built primarily with **Bootstrap 5**, HTML5, and custom CSS. This project demonstrates proficiency in creating UI layouts using the Bootstrap 5 grid system, components, and utility classes—without relying on JavaScript frameworks.
+A fully responsive Admin Dashboard UI built entirely with **Bootstrap 5**, designed to showcase modern layout structures and practical components used in admin panels and data management interfaces.
 
-## 🔍 Project Overview
+## 💡 Overview
 
-This admin dashboard provides a clean and structured user interface ideal for managing users, tracking analytics, or monitoring key metrics. It includes:
+This project was built to explore and demonstrate the full capabilities of Bootstrap 5 components without relying on external JavaScript frameworks. The interface is clean, mobile-responsive, and ideal for dashboards, CRMs, analytics panels, and admin management systems.
 
-- A responsive sidebar navigation
-- Top navbar with dropdowns
-- Stat summary cards
-- Tables and data listings
-- Forms and input groups
-- Fully responsive grid layout
+## 🧰 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5** (grid system, navbar, cards, forms, tables, etc.)
+
+## ✨ Features
+
+- Sidebar navigation with collapsible links
+- Top navbar with user menu and icons
+- Responsive cards and info boxes
+- Bootstrap tables for displaying data
+- Forms with input groups and validation-ready layout
+- Fully mobile-friendly using Bootstrap's grid and utility classes
